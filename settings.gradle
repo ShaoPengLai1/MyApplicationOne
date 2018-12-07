@@ -1,1 +1,2 @@
-include ':app', ':dailyexam_1'
+include ':app', ':dailyexam_1', ':mymvpdemo1', ':mvpdemo2', ':shaopenglai', ':demo_1205', ':shaopenglai1206'
+include ':xListView'
